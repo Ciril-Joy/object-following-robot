@@ -8,4 +8,4 @@ I will be using a Arduino Uno R3 and a ultrasonic sensor to control the Robot
 
 I think i will use Arduino to get the senor values and move the leaves accordingly by sending the signals to a motor drives
 
-**To Cont....**
+**To be Cont....**
