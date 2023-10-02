@@ -12,7 +12,9 @@ I think I will use Arduino to get the sensor values and move the leaves accordin
 
 
 To do :
-    1. Simulation
-    2. Assembly
+    1. Simulation  
+    
+    2. Assembly  
+    
     3. Working
     
