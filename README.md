@@ -9,3 +9,8 @@ I will be using a Arduino Uno R3 and a ultrasonic sensor to control the Robot
 I think i will use Arduino to get the senor values and move the leaves accordingly by sending the signals to a motor drives
 
 **To be Cont....**
+To do :
+    1. Simulation
+    2. Assembly
+    3. Working
+    
